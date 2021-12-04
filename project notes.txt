@@ -1,0 +1,24 @@
+(1)class :a class is a blue printe of an object 
+(2)A class contains defined properties(like width, height) and functions (like
+display()).
+(3)A class is used to create one or more objects having the same properties and
+functions as defined in the class.
+
+MOUSE DRAGGED
+The function mouseDragged 
+ whenever we dragged the mouse and it set the position of the object to be equal to
+mouseX and mouseY.
+
+API: API stands for Application Programming Interface. Using API calls we tell the web server
+to give us some information. Different Web Servers provided with different types of API calls
+and "Promise" of information.
+
+We began with using a simple API called "worldtimeapi". It gave the time of any specified location on the planet
+
+Objects - to create new objects for the game.
+
+Loops- to repeat the sequence of commands.
+
+Conditional Programming- to add different scenarios to the game.
+
+Variables - to keep score, count, objects.to store in the computer memore
